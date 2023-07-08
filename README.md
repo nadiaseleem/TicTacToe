@@ -1,4 +1,3 @@
-![2](https://github.com/nadiaseleem/TicTacToe/assets/37695970/239c8e73-e703-42ba-a732-430b6497f95e)
 # Tic Tac Toe Android App
 
 The Tic Tac Toe Android app is a simple and classic game that allows users to play the popular Tic Tac Toe game on their Android devices. It provides an interactive and enjoyable experience for players of all ages.
