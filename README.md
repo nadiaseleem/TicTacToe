@@ -29,6 +29,8 @@ download app apk : https://www.mediafire.com/file/qp5d7hulsgusrz4/tic_tac_toe.ap
 
 - Winning Detection: The app automatically detects and announces the winner when a player successfully forms a line of their symbols horizontally, vertically, or diagonally.
 
+- Arabic Localization: The app supports Arabic localization, allowing users to enjoy the game in the Arabic language. The interface and instructions are all available in Arabic, providing a seamless experience for Arabic-speaking users.
+
 
 # Technologies Used
 The Tic Tac Toe Android app is built using the following technologies:
